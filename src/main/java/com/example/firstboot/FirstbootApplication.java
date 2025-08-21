@@ -13,3 +13,7 @@ public class FirstbootApplication {
 }
 
 //controller->service->repository
+/*
+ * 
+ * Book Model-> id,title,authorr, year; controller and service with placeholders
+ */
